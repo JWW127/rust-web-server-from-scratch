@@ -5,10 +5,3 @@ version = 3
 [[package]]
 name = "pool"
 version = "0.1.0"
-
-[[package]]
-name = "rust-web-server-from-scratch"
-version = "0.1.0"
-dependencies = [
- "pool",
-]
